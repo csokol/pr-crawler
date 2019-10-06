@@ -1,0 +1,1012 @@
+{
+  "size": 3,
+  "limit": 25,
+  "isLastPage": true,
+  "values": [
+    {
+      "id": 255,
+      "version": 1,
+      "title": "DSVC feature/SME-15129 -> develop",
+      "state": "OPEN",
+      "open": true,
+      "closed": false,
+      "createdDate": 1570188577364,
+      "updatedDate": 1570188754395,
+      "fromRef": {
+        "id": "refs/heads/feature/SME-15129",
+        "displayId": "feature/SME-15129",
+        "latestCommit": "1de1a7fbadab06ec271cb3ad1620423d40d2d818",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "toRef": {
+        "id": "refs/heads/develop",
+        "displayId": "develop",
+        "latestCommit": "df229ddcefd7c1804a377932cfc6af781eb31417",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "locked": false,
+      "author": {
+        "user": {
+          "name": "mfigiel",
+          "emailAddress": "michal.figiel@codeconcept.pl",
+          "id": 1832,
+          "displayName": "Michal Figiel",
+          "active": true,
+          "slug": "mfigiel",
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/users/mfigiel"
+              }
+            ]
+          }
+        },
+        "role": "AUTHOR",
+        "approved": false,
+        "status": "UNAPPROVED"
+      },
+      "reviewers": [
+        {
+          "user": {
+            "name": "shanulok",
+            "emailAddress": "sebastian.hanulok@smava.de",
+            "id": 309,
+            "displayName": "Sebastian Hanulok",
+            "active": true,
+            "slug": "shanulok",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/shanulok"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "mptasinski",
+            "emailAddress": "mariusz.ptasinski@smava.de",
+            "id": 945,
+            "displayName": "Mariusz Ptasiński",
+            "active": true,
+            "slug": "mptasinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/mptasinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "tlatka",
+            "emailAddress": "Tomasz.latka@smava.de",
+            "id": 857,
+            "displayName": "Tomasz Łątka",
+            "active": true,
+            "slug": "tlatka",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/tlatka"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "rbochen",
+            "emailAddress": "radoslaw.bochen@smava.de",
+            "id": 1167,
+            "displayName": "Radoslaw Bochen",
+            "active": true,
+            "slug": "rbochen",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/rbochen"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "1de1a7fbadab06ec271cb3ad1620423d40d2d818",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "kflakus",
+            "emailAddress": "krzysztof.flakus@smava.de",
+            "id": 316,
+            "displayName": "Krzysztof Flakus",
+            "active": true,
+            "slug": "kflakus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/kflakus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "fsokol",
+            "emailAddress": "francisco-zigmund.sokol@smava.de",
+            "id": 3687,
+            "displayName": "Francisco Zigmund Sokol",
+            "active": true,
+            "slug": "fsokol",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/fsokol"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "1de1a7fbadab06ec271cb3ad1620423d40d2d818",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "sonar",
+            "emailAddress": "sonar@smava.net",
+            "id": 1303,
+            "displayName": "SonarQube",
+            "active": true,
+            "slug": "sonar",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/sonar"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "1de1a7fbadab06ec271cb3ad1620423d40d2d818",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "jjanus",
+            "emailAddress": "jakub.janus@smava.de",
+            "id": 312,
+            "displayName": "Jakub Janus",
+            "active": true,
+            "slug": "jjanus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/jjanus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "ktomczyk",
+            "emailAddress": "kamil.tomczyk@smava.de",
+            "id": 572,
+            "displayName": "Kamil Tomczyk",
+            "active": true,
+            "slug": "ktomczyk",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/ktomczyk"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "abudzinski",
+            "emailAddress": "adam.budzinski@smava.de",
+            "id": 576,
+            "displayName": "Adam Budzinski",
+            "active": true,
+            "slug": "abudzinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/abudzinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        }
+      ],
+      "participants": [],
+      "properties": {
+        "mergeResult": {
+          "outcome": "CLEAN",
+          "current": true
+        },
+        "resolvedTaskCount": 0,
+        "commentCount": 1,
+        "openTaskCount": 0
+      },
+      "links": {
+        "self": [
+          {
+            "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/pull-requests/255"
+          }
+        ]
+      }
+    },
+    {
+      "id": 250,
+      "version": 3,
+      "title": "SME-15089 dsvc",
+      "state": "OPEN",
+      "open": true,
+      "closed": false,
+      "createdDate": 1569916988944,
+      "updatedDate": 1569925131618,
+      "fromRef": {
+        "id": "refs/heads/feature/SME-15089",
+        "displayId": "feature/SME-15089",
+        "latestCommit": "db9213dc6b8527c7b318250f66630fdc99ac7cbb",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "toRef": {
+        "id": "refs/heads/develop",
+        "displayId": "develop",
+        "latestCommit": "df229ddcefd7c1804a377932cfc6af781eb31417",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "locked": false,
+      "author": {
+        "user": {
+          "name": "tlatka",
+          "emailAddress": "Tomasz.latka@smava.de",
+          "id": 857,
+          "displayName": "Tomasz Łątka",
+          "active": true,
+          "slug": "tlatka",
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/users/tlatka"
+              }
+            ]
+          }
+        },
+        "role": "AUTHOR",
+        "approved": false,
+        "status": "UNAPPROVED"
+      },
+      "reviewers": [
+        {
+          "user": {
+            "name": "abudzinski",
+            "emailAddress": "adam.budzinski@smava.de",
+            "id": 576,
+            "displayName": "Adam Budzinski",
+            "active": true,
+            "slug": "abudzinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/abudzinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "fsokol",
+            "emailAddress": "francisco-zigmund.sokol@smava.de",
+            "id": 3687,
+            "displayName": "Francisco Zigmund Sokol",
+            "active": true,
+            "slug": "fsokol",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/fsokol"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "db9213dc6b8527c7b318250f66630fdc99ac7cbb",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "mptasinski",
+            "emailAddress": "mariusz.ptasinski@smava.de",
+            "id": 945,
+            "displayName": "Mariusz Ptasiński",
+            "active": true,
+            "slug": "mptasinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/mptasinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "jjanus",
+            "emailAddress": "jakub.janus@smava.de",
+            "id": 312,
+            "displayName": "Jakub Janus",
+            "active": true,
+            "slug": "jjanus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/jjanus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "mfigiel",
+            "emailAddress": "michal.figiel@codeconcept.pl",
+            "id": 1832,
+            "displayName": "Michal Figiel",
+            "active": true,
+            "slug": "mfigiel",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/mfigiel"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "db9213dc6b8527c7b318250f66630fdc99ac7cbb",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "shanulok",
+            "emailAddress": "sebastian.hanulok@smava.de",
+            "id": 309,
+            "displayName": "Sebastian Hanulok",
+            "active": true,
+            "slug": "shanulok",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/shanulok"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "kflakus",
+            "emailAddress": "krzysztof.flakus@smava.de",
+            "id": 316,
+            "displayName": "Krzysztof Flakus",
+            "active": true,
+            "slug": "kflakus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/kflakus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "sonar",
+            "emailAddress": "sonar@smava.net",
+            "id": 1303,
+            "displayName": "SonarQube",
+            "active": true,
+            "slug": "sonar",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/sonar"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "db9213dc6b8527c7b318250f66630fdc99ac7cbb",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "ktomczyk",
+            "emailAddress": "kamil.tomczyk@smava.de",
+            "id": 572,
+            "displayName": "Kamil Tomczyk",
+            "active": true,
+            "slug": "ktomczyk",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/ktomczyk"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        }
+      ],
+      "participants": [],
+      "properties": {
+        "mergeResult": {
+          "outcome": "CLEAN",
+          "current": true
+        },
+        "resolvedTaskCount": 0,
+        "commentCount": 3,
+        "openTaskCount": 1
+      },
+      "links": {
+        "self": [
+          {
+            "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/pull-requests/250"
+          }
+        ]
+      }
+    },
+    {
+      "id": 248,
+      "version": 4,
+      "title": "SME-15077",
+      "state": "OPEN",
+      "open": true,
+      "closed": false,
+      "createdDate": 1569502059157,
+      "updatedDate": 1569912241293,
+      "fromRef": {
+        "id": "refs/heads/feature/SME-15077",
+        "displayId": "feature/SME-15077",
+        "latestCommit": "51b1411f5c626d9d04111e52425211d8fa2583d1",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "toRef": {
+        "id": "refs/heads/develop",
+        "displayId": "develop",
+        "latestCommit": "df229ddcefd7c1804a377932cfc6af781eb31417",
+        "repository": {
+          "slug": "commons-data-science-variables-calculator",
+          "id": 552,
+          "name": "commons-data-science-variables-calculator",
+          "scmId": "git",
+          "state": "AVAILABLE",
+          "statusMessage": "Available",
+          "forkable": true,
+          "project": {
+            "key": "COM",
+            "id": 224,
+            "name": "Commons",
+            "public": false,
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/projects/COM"
+                }
+              ]
+            }
+          },
+          "public": false,
+          "links": {
+            "clone": [
+              {
+                "href": "https://fsokol@bitbucket.smava.de/scm/com/commons-data-science-variables-calculator.git",
+                "name": "http"
+              },
+              {
+                "href": "ssh://git@git.smava.de:7999/com/commons-data-science-variables-calculator.git",
+                "name": "ssh"
+              }
+            ],
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/browse"
+              }
+            ]
+          }
+        }
+      },
+      "locked": false,
+      "author": {
+        "user": {
+          "name": "tlatka",
+          "emailAddress": "Tomasz.latka@smava.de",
+          "id": 857,
+          "displayName": "Tomasz Łątka",
+          "active": true,
+          "slug": "tlatka",
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/users/tlatka"
+              }
+            ]
+          }
+        },
+        "role": "AUTHOR",
+        "approved": false,
+        "status": "UNAPPROVED"
+      },
+      "reviewers": [
+        {
+          "user": {
+            "name": "kflakus",
+            "emailAddress": "krzysztof.flakus@smava.de",
+            "id": 316,
+            "displayName": "Krzysztof Flakus",
+            "active": true,
+            "slug": "kflakus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/kflakus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "sonar",
+            "emailAddress": "sonar@smava.net",
+            "id": 1303,
+            "displayName": "SonarQube",
+            "active": true,
+            "slug": "sonar",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/sonar"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "51b1411f5c626d9d04111e52425211d8fa2583d1",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "shanulok",
+            "emailAddress": "sebastian.hanulok@smava.de",
+            "id": 309,
+            "displayName": "Sebastian Hanulok",
+            "active": true,
+            "slug": "shanulok",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/shanulok"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "jjanus",
+            "emailAddress": "jakub.janus@smava.de",
+            "id": 312,
+            "displayName": "Jakub Janus",
+            "active": true,
+            "slug": "jjanus",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/jjanus"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "mptasinski",
+            "emailAddress": "mariusz.ptasinski@smava.de",
+            "id": 945,
+            "displayName": "Mariusz Ptasiński",
+            "active": true,
+            "slug": "mptasinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/mptasinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "abudzinski",
+            "emailAddress": "adam.budzinski@smava.de",
+            "id": 576,
+            "displayName": "Adam Budzinski",
+            "active": true,
+            "slug": "abudzinski",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/abudzinski"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        },
+        {
+          "user": {
+            "name": "fsokol",
+            "emailAddress": "francisco-zigmund.sokol@smava.de",
+            "id": 3687,
+            "displayName": "Francisco Zigmund Sokol",
+            "active": true,
+            "slug": "fsokol",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/fsokol"
+                }
+              ]
+            }
+          },
+          "lastReviewedCommit": "51b1411f5c626d9d04111e52425211d8fa2583d1",
+          "role": "REVIEWER",
+          "approved": true,
+          "status": "APPROVED"
+        },
+        {
+          "user": {
+            "name": "ktomczyk",
+            "emailAddress": "kamil.tomczyk@smava.de",
+            "id": 572,
+            "displayName": "Kamil Tomczyk",
+            "active": true,
+            "slug": "ktomczyk",
+            "type": "NORMAL",
+            "links": {
+              "self": [
+                {
+                  "href": "https://bitbucket.smava.de/users/ktomczyk"
+                }
+              ]
+            }
+          },
+          "role": "REVIEWER",
+          "approved": false,
+          "status": "UNAPPROVED"
+        }
+      ],
+      "participants": [],
+      "properties": {
+        "mergeResult": {
+          "outcome": "CLEAN",
+          "current": true
+        },
+        "resolvedTaskCount": 0,
+        "commentCount": 5,
+        "openTaskCount": 0
+      },
+      "links": {
+        "self": [
+          {
+            "href": "https://bitbucket.smava.de/projects/COM/repos/commons-data-science-variables-calculator/pull-requests/248"
+          }
+        ]
+      }
+    }
+  ],
+  "start": 0
+}

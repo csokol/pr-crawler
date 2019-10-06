@@ -1,0 +1,104 @@
+{
+  "size": 3,
+  "limit": 25,
+  "isLastPage": true,
+  "values": [
+    {
+      "id": 711922,
+      "createdDate": 1569917159586,
+      "user": {
+        "name": "fsokol",
+        "emailAddress": "francisco-zigmund.sokol@smava.de",
+        "id": 3687,
+        "displayName": "Francisco Zigmund Sokol",
+        "active": true,
+        "slug": "fsokol",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://bitbucket.smava.de/users/fsokol"
+            }
+          ]
+        }
+      },
+      "action": "APPROVED"
+    },
+    {
+      "id": 711784,
+      "createdDate": 1569912855625,
+      "user": {
+        "name": "sonar",
+        "emailAddress": "sonar@smava.net",
+        "id": 1303,
+        "displayName": "SonarQube",
+        "active": true,
+        "slug": "sonar",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://bitbucket.smava.de/users/sonar"
+            }
+          ]
+        }
+      },
+      "action": "APPROVED"
+    },
+    {
+      "id": 711783,
+      "createdDate": 1569912855564,
+      "user": {
+        "name": "sonar",
+        "emailAddress": "sonar@smava.net",
+        "id": 1303,
+        "displayName": "SonarQube",
+        "active": true,
+        "slug": "sonar",
+        "type": "NORMAL",
+        "links": {
+          "self": [
+            {
+              "href": "https://bitbucket.smava.de/users/sonar"
+            }
+          ]
+        }
+      },
+      "action": "COMMENTED",
+      "commentAction": "ADDED",
+      "comment": {
+        "properties": {
+          "repositoryId": 552
+        },
+        "id": 93627,
+        "version": 0,
+        "text": "## SonarQube analysis Overview\n### No new issues detected!\n\n",
+        "author": {
+          "name": "sonar",
+          "emailAddress": "sonar@smava.net",
+          "id": 1303,
+          "displayName": "SonarQube",
+          "active": true,
+          "slug": "sonar",
+          "type": "NORMAL",
+          "links": {
+            "self": [
+              {
+                "href": "https://bitbucket.smava.de/users/sonar"
+              }
+            ]
+          }
+        },
+        "createdDate": 1569912855564,
+        "updatedDate": 1569912855564,
+        "comments": [],
+        "tasks": [],
+        "permittedOperations": {
+          "editable": false,
+          "deletable": false
+        }
+      }
+    }
+  ],
+  "start": 0
+}
